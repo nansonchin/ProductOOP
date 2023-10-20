@@ -1,0 +1,3 @@
+Register | First Name -> yes | Last Name -> haha | Staff ID -> 1001 | Password -> 123 | Email ID -> haha@gmail.com | Phone No -> 12345678
+Register | First Name -> chin | Last Name -> chin | Staff ID -> chin | Password -> chin | Email ID -> chin | Phone No -> chin
+Register | First Name -> shanleba | Last Name -> shanleba | Staff ID -> shanleba | Password -> shanleba | Email ID -> shanleba | Phone No -> shanleba
